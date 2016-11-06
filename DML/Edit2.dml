@@ -1,4 +1,6 @@
 This is edit2.dml 
 update fred set head=2;
+-- myJira updates
+-- OtherJira updates
 -- Bad Jira updates
 -- MORE Bad Jira updates 	
